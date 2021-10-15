@@ -1,0 +1,1 @@
+ ../lib/libSDL2.dll.a ../lib/libSDL2main.a ../lib/libSDL2.a -mwindows -lmingw32 -lSDL2main -lSDL2 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
